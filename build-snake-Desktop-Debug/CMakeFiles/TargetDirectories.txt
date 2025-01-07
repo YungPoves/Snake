@@ -1,4 +1,0 @@
-/home/stevep/Qt/Snake/build-snake-Desktop-Debug/CMakeFiles/snake.dir
-/home/stevep/Qt/Snake/build-snake-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/stevep/Qt/Snake/build-snake-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/stevep/Qt/Snake/build-snake-Desktop-Debug/CMakeFiles/snake_autogen.dir
